@@ -30,5 +30,4 @@ This project helped understand:
 
 ## By
 **Dimpal Suresh Patil**
-Godavari College of Engineering, Jalgaon
 June 2026
